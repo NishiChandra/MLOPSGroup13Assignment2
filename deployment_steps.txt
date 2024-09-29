@@ -1,0 +1,7 @@
+1. AWS ECR - Create  image repo
+2. Set IAM Permissions for user profiles
+3. Create a Dockerfile
+4. Build and push the Docker image to ECR
+5. Create Lambda Function using Docker image pushed to ECR
+6. Configure timeout and grant S3 permissions to Lambda function to access model file
+7. Invoke the Lambda Function 
